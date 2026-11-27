@@ -1,0 +1,6 @@
+groq
+langchain
+langchain-groq
+langchain-core
+streamlit
+pydantic
